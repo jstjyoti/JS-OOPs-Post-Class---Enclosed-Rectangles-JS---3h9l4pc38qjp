@@ -192,7 +192,6 @@ function updateStructure(rec1,rec2){
 				}
 		}
 	}
-	console.log("here test");
 	return {...rec1}
 }
 
